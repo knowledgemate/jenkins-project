@@ -1,0 +1,4 @@
+ git clone https://github.com/knowledgemate/jenkins-project.git
+  ls
+  cd jenkins-project/
+  git pull origin main
